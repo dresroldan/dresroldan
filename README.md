@@ -4,7 +4,7 @@ I'm Andrés. I'm a full stack developer with a background in specialty coffee an
 
 
 - 🔭 I’m currently developing: https://vinyl-record-store.herokuapp.com/
-<!-- - 🌱 I’m currently learning  -->
+
 
 - 💬 I’m looking for a Front End Development role.
 - 📫 How to reach me: https://www.linkedin.com/in/andresroldan23/
