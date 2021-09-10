@@ -2,9 +2,9 @@
 I'm Andrés. I'm a full stack developer with a background in specialty coffee and music production. I'm currently seeking to leverage my skills and experience to join a creative and diverse team in tech. I'm determined to improve my code, and design skills everyday while bringing my passion for technology, design, and community to the table.
 
 
-- 🔭 I’m currently developing: https://vinyl-record-store.herokuapp.com/
-- 💬 I’m looking for a Front End Development role.
-- 📫 How to reach me: https://www.linkedin.com/in/andresroldan23/
+- 🔭  I’m currently developing: https://vinyl-record-store.herokuapp.com/
+- 💬  I’m looking for a Front End Development role.
+- 📫  How to reach me: https://www.linkedin.com/in/andresroldan23/
 - ⚡ Fun fact: I'm a music producer and dj. 
 
 ### Tech Stack
